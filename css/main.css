@@ -1,0 +1,29 @@
+.body-header{
+    color: rgb(37, 82, 141);
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 500;
+}
+
+.blog{
+    width: 80%;
+    background-color: rgba(224, 246, 255, 0.808);
+    border: 2px solid rgb(153, 225, 253);
+    border-radius: 10px;
+    margin: 30px auto;
+    padding: 15px 20px;
+    text-align: justify;
+}
+
+.blog-header{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(74, 109, 175);
+}
+.author-name{
+    color:crimson
+}
+
+.blog-description{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(86, 90, 94);
+}
